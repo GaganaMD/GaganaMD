@@ -1,4 +1,4 @@
-👋 Hi, I’m @GaganaMD. 
+👋 Hi, I’m Gagana M D. 
 
 I am working on End-to-End ML projects with deployment. 
 
