@@ -1,10 +1,11 @@
-👋 Hi, I’m @GaganaMD
-I am working on End-to-End ML projects with deployment.
-I have worked on
+👋 Hi, I’m @GaganaMD. 
+
+I am working on End-to-End ML projects with deployment. 
+
+I have worked on:
+
 - [End-to-end chatbot using LangChain](https://github.com/GaganaMD/End-to-end-chatbot-using-LangChain)
-- [Edufrent](https://github.com/GaganaMD/Edufrent/): A GenAI powered EdTech solution.
-
-
+- [Edufrent: A GenAI powered EdTech solution](https://github.com/GaganaMD/Edufrent/)
 
 <!---
 GaganaMD/GaganaMD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
